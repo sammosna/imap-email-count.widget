@@ -1,6 +1,6 @@
 # imap-email-count.widget
 
-Since I've not found any widget that gets unread messages through IMAP..
+Since I've not found any widget that gets unread email messages through IMAP..
 
 ## Screenshots
 ![Normal Display](https://raw.githubusercontent.com/sammosna/imap-email-count.widget/master/screenshot.png)

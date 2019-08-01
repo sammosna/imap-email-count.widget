@@ -1,0 +1,6 @@
+{
+  "name": "IMAP Unread Emails Count",
+  "description": "A widget that gets unread email messages through IMAP",
+  "author": "sammosna",
+  "email": "info@sammosna.it"
+}
